@@ -1,6 +1,8 @@
 # Vagas MCP
+<p align="center">
 
 <img width="346" height="260" alt="WorkHeresGIF" src="https://github.com/user-attachments/assets/9cea1029-1614-4538-bd16-0bd7e4235292" />
+</p>
 
 
 **Um conector MCP para buscar, centralizar e analisar vagas de emprego em diferentes plataformas.**
